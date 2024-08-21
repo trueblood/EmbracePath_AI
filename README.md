@@ -2,6 +2,8 @@
 
 This repository contains Jupyter notebooks for training a Convolutional Neural Network (CNN) to detect emotions. The project includes two versions of the notebook: one with extensive comments for learning purposes and a cleaned-up version for streamlined execution. Plus an API to host the AI.
 
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/6d201541-b2b0-4ea4-beb8-cba0d465d3e4">
+
 ## Getting Started
 
 ### Prerequisites
